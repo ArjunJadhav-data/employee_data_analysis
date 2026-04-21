@@ -1,0 +1,59 @@
+Employee Data Analysis – Question List
+
+-------------------------------
+1. Data Cleaning
+-------------------------------
+1. Standardize the department column (case insensitive)
+2. Handle missing values in the salary column using mean
+3. Check for null values in the dataset
+4. Verify and correct data types of all columns
+5. Remove duplicates (if any)
+
+-------------------------------
+2. Basic Analysis
+-------------------------------
+6. What is the average salary of employees?
+7. Who has the highest salary?
+8. Who has the lowest salary?
+9. What is the total salary expense?
+
+-------------------------------
+3. GroupBy Analysis
+-------------------------------
+10. What is the average salary by department?
+11. What is the total salary by department?
+12. How many employees are there in each department?
+13. What is the average experience by department?
+14. How many employees are there in each city?
+
+-------------------------------
+4. Filtering & Conditions
+-------------------------------
+15. List employees with salary greater than 60,000
+16. Find employees from Mumbai
+17. Find employees from Mumbai with experience greater than 3 years
+18. Find employees working in the IT department
+19. Find employees with missing salary (before cleaning)
+
+-------------------------------
+5. Advanced Analysis
+-------------------------------
+20. Which department has the highest average salary?
+21. Which city has the highest number of employees?
+22. Is there a relationship between experience and salary?
+23. Which department has the most experienced employees?
+
+-------------------------------
+6. Visualization
+-------------------------------
+24. Plot average salary by department (bar chart)
+25. Plot employee count by city
+26. Plot salary distribution
+
+-------------------------------
+7. Business Insights
+-------------------------------
+27. Which department is most costly for the company?
+28. Which location has the highest workforce?
+29. Does higher experience lead to higher salary?
+30. Suggest improvements based on the dataset
